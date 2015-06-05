@@ -3,4 +3,6 @@ track:
     title: Message Queueing with RabbitMQ!
     uuid: 4944e3b3-16f4-44fa-9a2f-f13f9039f060
     topics:
-    -  title: 'Channels'
+    -   title: Channels
+        uuid: 9028f646-25c6-41c1-9735-7f9133f4874c
+        units: []
